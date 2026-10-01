@@ -1,0 +1,29 @@
+# 🚀 Meu Client de Minecraft
+
+Um client leve e personalizado com HUD de FPS, Coordenadas e atalhos customizados.
+
+---
+
+### 📥 Download
+
+Clique no botão abaixo para baixar a versão mais recente do client:
+
+[![Baixar Client](https://img.shields.io/badge/Download-Meu_Client_v1.0.0-2ea44f?style=for-the-badge&logo=minecraft&logoColor=white)](https://github.com/alysson4521/LEIZINCLIENT/releases/download/v1.0.0/meuclient-1.0.0.jar)
+
+> ⚠️ **Atenção:** Lembre-se de substituir `SEU_USUARIO` e `SEU_REPOSITORIO` pelo seu usuário e nome do projeto do GitHub!
+
+---
+
+### ⚙️ Como Instalar
+
+1. Baixe o arquivo `.jar` no botão acima.
+2. Pressione as teclas `Win + R` no seu teclado, digite `%appdata%\.minecraft\mods` e aperte **Enter**.
+3. Mova o arquivo `.jar` baixado para dentro dessa pasta.
+4. Abra o **Minecraft Launcher** com o perfil **Fabric** selecionado e divirta-se!
+
+---
+
+### ✨ Recursos do Client
+- 📊 **Contador de FPS** no canto da tela
+- 🗺️ **Exibição de Coordenadas** (X, Y, Z)
+- ⚙️ **Menu de Configurações** (Pressione a tecla `K` no jogo)
